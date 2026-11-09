@@ -1,0 +1,6 @@
+{
+  "name": "CodeAlpha Hangman Game",
+  "description": "An interactive, modern dark-themed Hangman word-guessing game for CodeAlpha Python Programming Internship Task 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

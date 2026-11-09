@@ -1,0 +1,38 @@
+# Node & Build artifacts
+node_modules/
+build/
+dist/
+dist-ssr/
+coverage/
+*.log
+.DS_Store
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
